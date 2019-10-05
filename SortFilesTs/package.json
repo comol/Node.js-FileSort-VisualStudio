@@ -1,0 +1,12 @@
+{
+  "name": "sort-files-ts",
+  "version": "0.0.0",
+  "description": "SortFilesTs",
+  "main": "app.js",
+  "author": {
+    "name": "Admin"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.9"
+  }
+}
