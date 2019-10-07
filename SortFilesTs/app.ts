@@ -128,6 +128,7 @@ function getshortfilename( filename: string ): string
 if ( Args.length < 2 )
 {
 	console.log( 'Usage: app.ts <source path> <destination path> [-delete]' );
+	process.exit( 0 );
 }
 
 if ( Args.length == 3 )
